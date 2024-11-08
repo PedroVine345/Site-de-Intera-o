@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Brawl Stars',
+    'Qual Brawler é bom para upar de início de game?',
+    'Um dos Brawlers bom de começo é a Jessie, ela é um Brawler de Controle. Com raridade Super Rara. '
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Brawl Stars',
+    'Que personagem é bom contra tanque?',
+    'A melhor categoria para se jogar contra tanque é da classe Destruidora e Detonadora, dentre elas está os personagens (Shelly,Colt,Nita,Carl,Rico,Clancy e Dynamike)'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Brawl Stars',
+    'Qual melhor modo de Jogo?',
+    'No Brawl existe vários modos de jogo, de modos de jogo sozinho até o modo 5v5, cada um com sua vrariante de ganho de troféu.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Brawl Stars',
+    'Qual a melhor categoria de Brawler no Brawl Stars?',
+    'Existem diversas categorias no Brawl Stars, detre elas (Destruidora,Tanque,Suporte,Lnçador,Tiro Preciso,Controle,Detonador e Algoz) A categoria que você escolhe varía conforme o seu estilo de jogo, cada categoria é boa em certo modo ou contra algum adversário.'
 )
